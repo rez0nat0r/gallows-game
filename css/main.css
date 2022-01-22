@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background: -webkit-gradient(linear, left top, left bottom, from(#15e248), to(#B682B6)) no-repeat;
+  background: linear-gradient(#15e248, #B682B6) no-repeat;
+  height: 100vh;
+}
+
+.main__title {
+  margin-left: 30px;
+  border-bottom: 1px solid #220844;
+}
+/*# sourceMappingURL=main.css.map */
